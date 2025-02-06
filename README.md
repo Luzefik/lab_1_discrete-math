@@ -22,7 +22,7 @@
 **reality** - наша реалізація 
 **etalon** - реалізація з бібліотеки networkx
 ![Kruskal](https://github.com/user-attachments/assets/ca3295ec-b6c7-432e-b9c5-a6743ed081f5)
-### Алгоритм Беллмана-Фордаreality - наша реалізація 
+### Алгоритм Беллмана-Фордаr
 **reality** - наша реалізація 
 **standard** - реалізація з бібліотеки networkx
 ![ballman_ford](https://github.com/user-attachments/assets/63438577-3dfc-488e-ba6f-c9ec58c9884d)
